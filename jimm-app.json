@@ -7,9 +7,8 @@
     "description": "ICQ/OSCAR и Jabber/XMPP клиент для Symbian S^3-Anna-Belle \n Реализованы все основные функции клиентов ICQ.",
     "icon": "https://raw.githubusercontent.com/Symnok/KeepIM-Symbian/main/KeepIM.jpg",
     "screenshots": [
-        "https://raw.githubusercontent.com/Symnok/QipIM-Android/main/screenshots/qscreenshot1.jpg",
-        "https://raw.githubusercontent.com/Symnok/QipIM-Android/main/screenshots/qscreenshot2.jpg",
-        "https://raw.githubusercontent.com/Symnok/QipIM-Android/main/screenshots/qscreenshot3.jpg"
+        "https://raw.githubusercontent.com/Symnok/KeepIM-Symbian/main/Screenshots/keepim01.jpg",
+        "https://raw.githubusercontent.com/Symnok/KeepIM-Symbian/main/Screenshots/keepim01.jpg.jpg"
     ],
     "category": "client",
     "license": "freeware",
@@ -20,11 +19,11 @@
     "homepage": "https://github.com/symnok",
     "platforms": [
         {
-            "os": "android",
-            "min_version": "6",
+            "os": "symbian",
+            "min_version": "S3",
             "source": {
                 "type": "github",
-                "repo": "symnok/qipim-android"
+                "repo": "symnok/KeepIM-Symbian"
             } 
         }
     ]
