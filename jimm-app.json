@@ -5,7 +5,7 @@
     "name": "KeepIM-Symbian",
     "summary": "ICQ/OSCAR client for Symbian S^3-Anna-Belle",
     "description": "ICQ/OSCAR и Jabber/XMPP клиент для Symbian S^3-Anna-Belle \n Реализованы все основные функции клиентов ICQ.",
-    "icon": "https://raw.githubusercontent.com/Symnok/KeepIM-Symbian/main/KeepIM.jpg",
+    "icon": "https://raw.githubusercontent.com/Symnok/KeepIM-Symbian/main/Screenshots/keepim-512-white.png",
     "screenshots": [
         "https://raw.githubusercontent.com/Symnok/KeepIM-Symbian/main/Screenshots/keepim01.jpg",
         "https://raw.githubusercontent.com/Symnok/KeepIM-Symbian/main/Screenshots/keepim02.jpg"
